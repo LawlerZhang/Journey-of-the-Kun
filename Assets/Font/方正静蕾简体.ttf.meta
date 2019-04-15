@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e46647b65f4435442856502821720ec7
+timeCreated: 1537514114
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: FZJingLeiS-R-GB
+  fontNames:
+  - FZJingLeiS-R-GB
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
